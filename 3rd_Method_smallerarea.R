@@ -1,5 +1,5 @@
 ##### Third method final code #####
-##### set working directory and install packages #####
+##### set working directory and install packages
 setwd("/Users/kieranmckeag/Desktop/Black Bear Research")
 library(stats)
 library(bestglm)
